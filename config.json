@@ -1,4 +1,4 @@
 {
-  "token": "5990689895:AAFuwl0lcVrhrZPvHAOrQ0HU2TWTrgLMYEI",
-  "gptApiKey": "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"
+  "token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "gptApiKey": "YOUR_OPEN_AI_TOKEN"
 }
