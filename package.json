@@ -1,0 +1,20 @@
+{
+  "name": "ecosortbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22",
+    "telegraf": "^4.12.2",
+    "telegraph": "^0.8.22"
+  },
+  "description": ""
+}
